@@ -1,0 +1,31 @@
+body {
+  background: #AB987A;
+  text-align: center;
+  font-family: Verdana;
+}
+
+h1 {
+  color: #OA1612;
+  font-size: 70px;
+  margin: 40px 0px 20px;
+}
+
+#countdown {
+  color: #FF533D;
+  display: inline-block;
+  text-align: center;
+  font-size: 40px;
+}
+
+#countdown > div {
+  width: 100px;
+  border-radius: 10%;
+  background: #0F1626;
+  display: inline-block;
+}
+
+.txt {
+  padding-top: 5px;
+  font-family: Verdana;
+  font-size: 15px;
+}
